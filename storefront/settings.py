@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'playground',
-    'debug_toolbar',
+    # 'debug_toolbar',
     'store',
     'store_custom',
     'tags',
@@ -92,7 +92,7 @@ DATABASES = {
         'NAME': 'storefront',
         'HOST': 'localhost',
         'USER': 'root',
-        'PASSWORD': 'MyPassword'
+        'PASSWORD': 'Pipsson8420'
     }
 }
 
